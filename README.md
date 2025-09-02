@@ -36,7 +36,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=choyon-ugv&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Choyon's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raz-ugv&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Raz's GitHub Trophies" />
 </p>
 
 ---
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=choyon-ugv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=raz-ugv&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
