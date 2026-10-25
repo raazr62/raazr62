@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,illustrator,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,vscode,git,github,postman" />
 </p>
 
 ---
@@ -35,9 +35,9 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=raz-ugv&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=7" alt="Raz's GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
