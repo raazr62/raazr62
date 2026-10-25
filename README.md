@@ -15,9 +15,9 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on **Balify - A Web App**
-- 🌱 I’m learning **FastAPI & AI Agent**
-- 💬 Ask me about **Django, DRF, Authentication, Stripe, Firebase**
+- 🔭 I’m currently working on **I learn Tutors - A Web App**
+- 🌱 I’m learning **Generative AI**
+- 💬 Ask me about **Django, DRF, FastAPI, AI Integration, Authentication, Stripe, Paymob, SSL Commerce, Firebase**
 - ⚡ Fun fact: I love playing, traveling, and farming because they fuel my creativity, adventure, and connection with nature.
 - 📫 How to reach me: **rezanulraz62@gmail.com**
 
