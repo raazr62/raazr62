@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rezanul Haque Raz </h1>
-<h3 align="center">A Python Developer from Bangladesh</h3>
+<h3 align="center">A Software Engineer from Bangladesh</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Django+%7C+DRF;Full-Stack+Learner+%7C+Django+%7C+React;Love+Coding+%26+Problem+Solving;Traveling+%7C+Gaming+%7C+Movies+%7C+Farming" alt="Typing SVG" />
