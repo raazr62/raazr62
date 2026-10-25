@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,html,css,js,figma,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,react,html,css,js,vscode,git,github,postman" />
 </p>
 
 ---
